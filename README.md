@@ -1,3 +1,3 @@
-# elena-joy
+# Elena Joy
 
-## Professional photographer available for weeding and special events.
+## This is a photography website.
